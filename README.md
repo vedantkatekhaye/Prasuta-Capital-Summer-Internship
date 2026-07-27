@@ -25,14 +25,22 @@ Built data-driven dashboards and performed analysis using Excel (Pivot Tables, f
 Conducted macroeconomic and industry-level analysis to identify trends, risks, and opportunities.
 
 🛠️ Tools & Skills Used
+
 Microsoft Excel (Advanced)
+
 Financial Analysis & Ratio Analysis
+
 Market Research & Industry Analysis
+
 Data Cleaning & Interpretation
+
 Dashboarding & Reporting
 
 **🎯 Key Learnings**
 Developed strong financial analysis and structured thinking skills
+
 Gained exposure to startup evaluation and investment decision-making
+
 Improved ability to convert raw data into actionable insights
+
 Strengthened Excel-based analysis and reporting workflows
