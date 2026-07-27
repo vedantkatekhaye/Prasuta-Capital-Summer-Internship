@@ -56,9 +56,10 @@ This repository contains a collection of projects and analyses completed during 
 **🎯 Key Learnings**
 • Developed strong financial analysis and structured thinking skills
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/8f435022-8161-41a8-b65c-72ee5a96c0e8" />
 • Gained exposure to startup evaluation and investment decision-making
 
 • Improved ability to convert raw data into actionable insights
 
 • Strengthened Excel-based analysis and reporting workflows
+
+<img width="1000" height="1300" alt="image" src="https://github.com/user-attachments/assets/8f435022-8161-41a8-b65c-72ee5a96c0e8" />
