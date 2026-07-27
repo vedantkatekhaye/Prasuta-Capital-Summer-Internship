@@ -1,6 +1,3 @@
-
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8f435022-8161-41a8-b65c-72ee5a96c0e8" />
-
 This repository contains a collection of projects and analyses completed during my internship at Prasuta Ventures Pvt. Ltd, where I worked on startup evaluation, financial analysis, and market research. The work focuses on deriving insights from data to support investment decisions and business strategy.
 
 📁 Projects Included
@@ -59,6 +56,7 @@ This repository contains a collection of projects and analyses completed during 
 **🎯 Key Learnings**
 • Developed strong financial analysis and structured thinking skills
 
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/8f435022-8161-41a8-b65c-72ee5a96c0e8" />
 • Gained exposure to startup evaluation and investment decision-making
 
 • Improved ability to convert raw data into actionable insights
