@@ -2,9 +2,13 @@ This repository contains a collection of projects and analyses completed during 
 
 📁 Projects Included
 1. **Prasuta Ventures Ecosystem & Business Vertical Analysis**
+
 Researched startup ecosystem dynamics and analyzed different business verticals for investment potential.
+
 2. **Cash Flow Analysis**
+
 Performed detailed analysis of cash inflows and outflows to evaluate financial health and sustainability of businesses.
+
 3. **5 Listed Companies Financial Analysis**
 Conducted comparative financial analysis across multiple companies using key metrics and ratios to assess performance.
 
