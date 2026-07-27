@@ -8,11 +8,11 @@ Performed detailed analysis of cash inflows and outflows to evaluate financial h
 3. **5 Listed Companies Financial Analysis**
 Conducted comparative financial analysis across multiple companies using key metrics and ratios to assess performance.
 
-3.1. **Income Statement Analysis**
-Analyzed revenue, expenses, and profitability trends to understand operational efficiency.
+    3.1. **Income Statement Analysis**
+    Analyzed revenue, expenses, and profitability trends to understand operational efficiency.
 
-3.2 Listed Companies Balance Sheet Analysis
-Assessed financial stability through asset-liability structure and key ratios.
+    3.2 Listed Companies Balance Sheet Analysis
+    Assessed financial stability through asset-liability structure and key ratios.
 4. **Complete Portfolio Summary**
 Built a consolidated portfolio overview to track investments, returns, and allocation strategies of Prasuta.
 5. **Indian Financial Market Ecosystem**
