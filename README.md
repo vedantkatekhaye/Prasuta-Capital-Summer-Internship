@@ -5,7 +5,7 @@ This repository contains a collection of projects and analyses completed during 
 
     Researched startup ecosystem dynamics and analyzed different business verticals for     investment potential.
 
-2. **5 Listed Companies Financial Analysis**
+2. **5 - Listed Companies Financial Analysis**
 
     Conducted comparative financial analysis across multiple companies using key metrics and ratios to assess performance.
 
