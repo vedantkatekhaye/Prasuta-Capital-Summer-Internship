@@ -23,6 +23,7 @@ Evaluated mutual fund performance using risk-return metrics and portfolio compos
 Built data-driven dashboards and performed analysis using Excel (Pivot Tables, formulas, data cleaning).
 8. **Economy & Industry Analysis Report**
 Conducted macroeconomic and industry-level analysis to identify trends, risks, and opportunities.
+
 🛠️ Tools & Skills Used
 Microsoft Excel (Advanced)
 Financial Analysis & Ratio Analysis
