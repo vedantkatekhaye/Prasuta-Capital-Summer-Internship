@@ -5,27 +5,40 @@ This repository contains a collection of projects and analyses completed during 
 
     Researched startup ecosystem dynamics and analyzed different business verticals for     investment potential.
 
-2. **Cash Flow Analysis**
+2. **5 Listed Companies Financial Analysis**
 
-    Performed detailed analysis of cash inflows and outflows to evaluate financial health and sustainability of businesses.
-
-3. **5 Listed Companies Financial Analysis**
     Conducted comparative financial analysis across multiple companies using key metrics and ratios to assess performance.
 
-    3.1. **Income Statement Analysis**
-    Analyzed revenue, expenses, and profitability trends to understand operational efficiency.
+    2.1. **Income Statement Analysis**
 
-    3.2 Listed Companies Balance Sheet Analysis
+   Analyzed revenue, expenses, and profitability trends to understand operational efficiency.
+
+    2.2 **Listed Companies Balance Sheet Analysis**
+
     Assessed financial stability through asset-liability structure and key ratios.
-4. **Complete Portfolio Summary**
+
+    2.3. **Cash Flow Analysis**
+
+    Performed detailed analysis of cash inflows and outflows to evaluate financial health and sustainability of businesses.
+   
+3. **Complete Portfolio Summary**
+
 Built a consolidated portfolio overview to track investments, returns, and allocation strategies of Prasuta.
-5. **Indian Financial Market Ecosystem**
+
+4. **Indian Financial Market Ecosystem**
+
 Studied the structure and key players in the Indian financial system, including trends and growth drivers.
-6. **Mutual Fund Analysis**
+
+5. **Mutual Fund Analysis**
+
 Evaluated mutual fund performance using risk-return metrics and portfolio composition.
-7. **Excel Project**
+
+6. **Excel Project**
+
 Built data-driven dashboards and performed analysis using Excel (Pivot Tables, formulas, data cleaning).
-8. **Economy & Industry Analysis Report**
+
+7. **Economy & Industry Analysis Report**
+
 Conducted macroeconomic and industry-level analysis to identify trends, risks, and opportunities.
 
 🛠️ Tools & Skills Used
