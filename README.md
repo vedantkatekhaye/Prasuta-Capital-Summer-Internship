@@ -7,8 +7,10 @@ Researched startup ecosystem dynamics and analyzed different business verticals 
 Performed detailed analysis of cash inflows and outflows to evaluate financial health and sustainability of businesses.
 3. **5 Listed Companies Financial Analysis**
 Conducted comparative financial analysis across multiple companies using key metrics and ratios to assess performance.
+
 3.1. **Income Statement Analysis**
 Analyzed revenue, expenses, and profitability trends to understand operational efficiency.
+
 3.2 Listed Companies Balance Sheet Analysis
 Assessed financial stability through asset-liability structure and key ratios.
 4. **Complete Portfolio Summary**
@@ -17,7 +19,7 @@ Built a consolidated portfolio overview to track investments, returns, and alloc
 Studied the structure and key players in the Indian financial system, including trends and growth drivers.
 6. **Mutual Fund Analysis**
 Evaluated mutual fund performance using risk-return metrics and portfolio composition.
-7. **Excel Project**
+8. **Excel Project**
 Built data-driven dashboards and performed analysis using Excel (Pivot Tables, formulas, data cleaning).
 
 **Economy & Industry Analysis Report**
