@@ -1,0 +1,1 @@
+This repository contains a collection of projects and analyses completed during my internship at Prasuta Ventures Pvt. Ltd, where I worked on startup evaluation, financial analysis, and market research. The work focuses on deriving insights from data to support investment decisions and business strategy.
