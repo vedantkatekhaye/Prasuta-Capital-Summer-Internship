@@ -19,10 +19,9 @@ Built a consolidated portfolio overview to track investments, returns, and alloc
 Studied the structure and key players in the Indian financial system, including trends and growth drivers.
 6. **Mutual Fund Analysis**
 Evaluated mutual fund performance using risk-return metrics and portfolio composition.
-8. **Excel Project**
+7. **Excel Project**
 Built data-driven dashboards and performed analysis using Excel (Pivot Tables, formulas, data cleaning).
-
-**Economy & Industry Analysis Report**
+8. **Economy & Industry Analysis Report**
 Conducted macroeconomic and industry-level analysis to identify trends, risks, and opportunities.
 🛠️ Tools & Skills Used
 Microsoft Excel (Advanced)
