@@ -1,5 +1,6 @@
 This repository contains a collection of projects and analyses completed during my internship at Prasuta Ventures Pvt. Ltd, where I worked on startup evaluation, financial analysis, and market research. The work focuses on deriving insights from data to support investment decisions and business strategy.
-rojects Included
+
+Projects Included
 Cash Flow Analysis
 Performed detailed analysis of cash inflows and outflows to evaluate financial health and sustainability of businesses.
 5 Listed Companies Financial Analysis
