@@ -13,7 +13,7 @@ This repository contains a collection of projects and analyses completed during 
 
    Analyzed revenue, expenses, and profitability trends to understand operational efficiency.
 
-    2.2 **Listed Companies Balance Sheet Analysis**
+    2.2 **Balance Sheet Analysis**
 
     Assessed financial stability through asset-liability structure and key ratios.
 
