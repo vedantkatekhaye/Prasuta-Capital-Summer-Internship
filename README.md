@@ -1,5 +1,5 @@
 
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/8f435022-8161-41a8-b65c-72ee5a96c0e8" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/8f435022-8161-41a8-b65c-72ee5a96c0e8" />
 
 This repository contains a collection of projects and analyses completed during my internship at Prasuta Ventures Pvt. Ltd, where I worked on startup evaluation, financial analysis, and market research. The work focuses on deriving insights from data to support investment decisions and business strategy.
 
