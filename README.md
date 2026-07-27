@@ -26,21 +26,21 @@ Conducted macroeconomic and industry-level analysis to identify trends, risks, a
 
 🛠️ Tools & Skills Used
 
-Microsoft Excel (Advanced)
+• Microsoft Excel (Advanced)
 
-Financial Analysis & Ratio Analysis
+• Financial Analysis & Ratio Analysis
 
-Market Research & Industry Analysis
+• Market Research & Industry Analysis
 
-Data Cleaning & Interpretation
+• Data Cleaning & Interpretation
 
-Dashboarding & Reporting
+• Dashboarding & Reporting
 
 **🎯 Key Learnings**
-Developed strong financial analysis and structured thinking skills
+• Developed strong financial analysis and structured thinking skills
 
-Gained exposure to startup evaluation and investment decision-making
+• Gained exposure to startup evaluation and investment decision-making
 
-Improved ability to convert raw data into actionable insights
+• Improved ability to convert raw data into actionable insights
 
-Strengthened Excel-based analysis and reporting workflows
+• Strengthened Excel-based analysis and reporting workflows
