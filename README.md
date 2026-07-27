@@ -23,23 +23,23 @@ This repository contains a collection of projects and analyses completed during 
    
 3. **Complete Portfolio Summary**
 
-Built a consolidated portfolio overview to track investments, returns, and allocation strategies of Prasuta.
+    Built a consolidated portfolio overview to track investments, returns, and allocation strategies of Prasuta.
 
 4. **Indian Financial Market Ecosystem**
 
-Studied the structure and key players in the Indian financial system, including trends and growth drivers.
+    Studied the structure and key players in the Indian financial system, including trends and growth drivers.
 
 5. **Mutual Fund Analysis**
 
-Evaluated mutual fund performance using risk-return metrics and portfolio composition.
+    Evaluated mutual fund performance using risk-return metrics and portfolio composition.
 
 6. **Excel Project**
 
-Built data-driven dashboards and performed analysis using Excel (Pivot Tables, formulas, data cleaning).
+    Built data-driven dashboards and performed analysis using Excel (Pivot Tables, formulas, data cleaning).
 
 7. **Economy & Industry Analysis Report**
 
-Conducted macroeconomic and industry-level analysis to identify trends, risks, and opportunities.
+    Conducted macroeconomic and industry-level analysis to identify trends, risks, and opportunities.
 
 🛠️ Tools & Skills Used
 
